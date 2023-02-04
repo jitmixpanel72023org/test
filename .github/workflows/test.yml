@@ -1,0 +1,7 @@
+name: create-map
+on: push
+
+run: |
+  echo "hello!"
+runs-on: ubuntu-latest
+shell: bash
